@@ -2,7 +2,7 @@
 
 # Note #
 
-This project is a Fork of "izi/django-admin-tools":https://bitbucket.org/izi/django-admin-tools
+This project is a Fork of [izi/django-admin-tools](https://bitbucket.org/izi/django-admin-tools)
 
 The last commit is `50fd97a`, on 2014-03-26.
 
